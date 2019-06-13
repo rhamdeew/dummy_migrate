@@ -17,8 +17,7 @@ with your requisites
 
 #### Usage
 1) Create new PostgreSQL database, apply migrations
-2) Migrate data
-3) Run script
+2) Run script
 
 Python 2
 
